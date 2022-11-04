@@ -39,7 +39,7 @@ This app is setup to use MVVM(Model-view-view-model) Architecture. Each view is 
 ## Design
 
 3 page app with a design soely imagined and inspired from youtube video
-- [Resume flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Resume flutter app Youtube](https://www.youtube.com/watch?v=zRP2mmQISng&t=9s)
 
 ## Packages Used
 
@@ -68,7 +68,7 @@ This app is setup to use MVVM(Model-view-view-model) Architecture. Each view is 
 
 ## APK LINK 
 
-[Resume](https://drive.google.com/file/d/11wTUmP2Rv58XwcLO9JLjHBokU0d9w9ci/view?usp=share_link)
+[Resume APK](https://drive.google.com/file/d/11wTUmP2Rv58XwcLO9JLjHBokU0d9w9ci/view?usp=share_link)
 
 ## Challenges
 
