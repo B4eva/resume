@@ -3,6 +3,12 @@
 A flutter app for ongoing HNG9 intenship. This app simply displays a users information and his super powers. Super powers here refer to his tech stacks. 
 
 
+# Preview
+
+
+
+
+
 
 ## Features
 
@@ -13,8 +19,7 @@ A flutter app for ongoing HNG9 intenship. This app simply displays a users infor
 * Routing
 * Social Media Linking
 
-## Technology Useed
-<img src="https://img.shields.io/badge/made%20with-dart-blue.svg" alt="made with dart">
+## Technology Used
 <img src="https://img.shields.io/badge/flutter-Dart-blue" alt="made with flutter">
 
 <img src="https://img.shields.io/badge/version-0.1.0-orange.svg" alt="1.0.0">
@@ -24,7 +29,7 @@ This app is setup to use MVVM(Model-view-view-model) Architecture. Each view is 
 
 ## Design
 
-3 page app for now with a design soely imagined and inspired from youtube video 
+3 page app with a design soely imagined and inspired from youtube video
 - [Resume flutter app](https://docs.flutter.dev/get-started/codelab)
 
 ## Packages Used
@@ -44,10 +49,11 @@ This app is setup to use MVVM(Model-view-view-model) Architecture. Each view is 
 
 * Authentication (Anonymous/Auth)
 * User Role(normal user/employer)
-* A user ca create a resume(Profile)
+* A user can create a resume(Profile)
 * User  can see other profiles 
 * user can chat with other user which profile fits a job description and setup a remote or live interview
 * Share profile with other users and other platforms
+* Search for user profiles based on a particular tech stack(super hero)
 
 
 
@@ -60,9 +66,9 @@ This app is setup to use MVVM(Model-view-view-model) Architecture. Each view is 
 |Libraries, packages, directories, and source files, import prefixes|snake_case|An example is home_screen|
 |Class members, top-level definitions, variables, parameters, and named parameters, constants|camelCase|An example is verifiedUser|
 
-## Getting Started
+## New to Flutter/Dart
 
-This project is a starting point for a Flutter application.
+
 
 A few resources to get you started if this is your first Flutter project:
 

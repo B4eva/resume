@@ -14,7 +14,7 @@ class StartUp extends StatelessWidget {
     return Scaffold(
         body: SingleChildScrollView(
       child: Container(
-        color: Colors.white,
+        // color: Colors.white,
         child: Padding(
           padding: const EdgeInsets.only(top: 35, left: 35, right: 35),
           child: Column(

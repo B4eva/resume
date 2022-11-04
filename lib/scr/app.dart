@@ -21,10 +21,6 @@ class MyApp extends StatefulWidget {
 
 class _MyAppState extends State<MyApp> {
   Locale? _locale;
-  final settings = ValueNotifier(ThemeSettings(
-    sourceColor: const Color(0xff00cbe6),
-    themeMode: ThemeMode.system,
-  ));
 
   void setLocale(BuildContext context, Locale locale) {
     setState(() {
