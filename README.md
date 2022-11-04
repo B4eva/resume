@@ -15,14 +15,14 @@ A flutter app for ongoing HNG9 intenship. This app simply displays a users infor
 * Dark Mode: You can switch between Light or Dark theme
 * Multi-Language: Can swtich between English or French. Phone inintial language as default
 * Profile Display
-* Welcome Screen: Landing screen with a few headsup about the app
+* Welcome Screen: Landing screen with a few headsup about the a
 * Routing
 * Social Media Linking
 
 ## Technology Used
 <img src="https://img.shields.io/badge/flutter-Dart-blue" alt="made with flutter">
 
-<img src="https://img.shields.io/badge/version-0.1.0-orange.svg" alt="3.0.5">
+<img src="https://img.shields.io/badge/version-3.0.5-orange.svg" alt="1.0.0">
 
 ## Architecture used
 This app is setup to use MVVM(Model-view-view-model) Architecture. Each view is tighly depended to its view model. This way logic is not scattered around at the widget level.   Due to the fact that this app is limited in features and pages, this architecture is not tightly implemented yet.
