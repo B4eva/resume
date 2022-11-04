@@ -2,7 +2,11 @@
 
 A flutter app for ongoing HNG9 intenship. This app simply displays a users information and his super powers. Super powers here refer to his tech stacks. 
 
+# Preview
 
+![darkmode](https://user-images.githubusercontent.com/34977309/200049608-a525848b-4e22-4eb4-938f-ffe53ffc99e2.png)
+![lightmode](https://user-images.githubusercontent.com/34977309/200049632-39dea2e4-4186-4f61-9158-ad6a87e72551.png)
+![welcomePage](https://user-images.githubusercontent.com/34977309/200049643-297877fd-55e5-4488-81c8-808b24a58479.png)
 
 ## Features
 
