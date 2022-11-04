@@ -1,0 +1,30 @@
+{
+  "@appBarTitle": {
+    "description": "Resume"
+  },
+  "appBarTitle": "Resume",
+  "appTitle": "Resume",
+  "previewNotice": "Your resume app.",
+  "startUpTitleText": "Hire * a * Hero",
+  "startupDesc": "hey there mola",
+  "superPowers": "super powers",
+  "yourPowers": "What are your super powers",
+  "doYouHave": "Do you have super powers? Join super hero league and get world wide job opportunities",
+  "continueText":"Continue",
+  "alreadyText": "Already a member?",
+  "loginText":"Log in here",
+   "descriptionText":"Energetic and curiosity-driven mobile app developer with 2+ years of experiencewriting quality clean code for high-paced businesses. Eager to support any idea indeveloping and modernizing it to world-class product and delivering incredible userexperience. Pro cient in a variety of platforms, languages with an innate ability tolearn and master new technologies",
+   "settingsText": "settings",
+   "languageText": "Language",
+   "darkModeText": "Dark mode",
+   "shareText": "Share",
+   "mainPower": "Mobile application Developer",
+   "homebtn":"Home",
+   "searchbtn":"Search",
+   "messagebtn":"Message",
+   "profilebtn":"Profile"
+
+
+
+
+}

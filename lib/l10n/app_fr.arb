@@ -1,0 +1,26 @@
+{
+  "@appBarTitle": {
+    "description": "Reprendre"
+  },
+  "appBarTitle": "Reprendre",
+  "appTitle": "Reprendre",
+  "previewNotice": "Votre application de CV.",
+  "startUpTitleText": "Engagez un héros",
+  "startupDesc": "hey labas mola",
+  "superPowers": "super pouvoirs",
+  "yourPowers": "Quels sont vos super pouvoirs",
+  "doYouHave": "Avez-vous des super pouvoirs ? Rejoignez la ligue des super-héros et obtenez des opportunités d'emploi dans le monde entier",
+   "continueText":"Continuer",
+   "alreadyText": "Déjà membre ?",
+   "loginText":"Connectez-vous ici",
+    "descriptionText":"Développeur d'applications mobiles énergique et motivé par la curiosité avec plus de 2 ans d'expérience dans la rédaction de code propre de qualité pour les entreprises dynamiques. Désireux de soutenir toute idée en la développant et en la modernisant en un produit de classe mondiale et en offrant une expérience utilisateur incroyable. Pro cient dans une variété de plateformes, des langages avec une capacité innée à apprendre et à maîtriser les nouvelles technologies",
+    "settingsText": "paramètres",
+    "languageText": "Langue",
+    "darkModeText": "Mode sombre",
+    "shareText": "Partager",
+    "mainPower": "Developeur application Mobile",
+    "homebtn":"Accueil",
+    "searchbtn":"Rechercher",
+    "messagebtn":"Message",
+    "profilebtn":"Profil"
+}
