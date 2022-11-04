@@ -22,7 +22,7 @@ A flutter app for ongoing HNG9 intenship. This app simply displays a users infor
 ## Technology Used
 <img src="https://img.shields.io/badge/flutter-Dart-blue" alt="made with flutter">
 
-<img src="https://img.shields.io/badge/version-0.1.0-orange.svg" alt="1.0.0">
+<img src="https://img.shields.io/badge/version-0.1.0-orange.svg" alt="3.0.5">
 
 ## Architecture used
 This app is setup to use MVVM(Model-view-view-model) Architecture. Each view is tighly depended to its view model. This way logic is not scattered around at the widget level.   Due to the fact that this app is limited in features and pages, this architecture is not tightly implemented yet.
