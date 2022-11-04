@@ -12,10 +12,10 @@ A flutter app for ongoing HNG9 intenship. This app simply displays a users infor
 
 ## Features
 
-* Dark Mode
-* Multi-Language
+* Dark Mode: You can switch between Light or Dark theme
+* Multi-Language: Can swtich between English or French. Phone inintial language as default
 * Profile Display
-* Welcome Screen
+* Welcome Screen: Landing screen with a few headsup about the app
 * Routing
 * Social Media Linking
 
@@ -26,6 +26,15 @@ A flutter app for ongoing HNG9 intenship. This app simply displays a users infor
 
 ## Architecture used
 This app is setup to use MVVM(Model-view-view-model) Architecture. Each view is tighly depended to its view model. This way logic is not scattered around at the widget level.   Due to the fact that this app is limited in features and pages, this architecture is not tightly implemented yet.
+
+
+  **i. Naming Convention**
+
+|Naming Convention|Effective Style|Example|   
+|-----------------|---------------|-------|
+|Classes, enum types,typedefs,and type parameters,etensions|PascalCase^1|An example is HomeScreen|
+|Libraries, packages, directories, and source files, import prefixes|snake_case|An example is home_screen|
+|Class members, top-level definitions, variables, parameters, and named parameters, constants|camelCase|An example is verifiedUser|
 
 ## Design
 
@@ -55,20 +64,19 @@ This app is setup to use MVVM(Model-view-view-model) Architecture. Each view is 
 * Share profile with other users and other platforms
 * Search for user profiles based on a particular tech stack(super hero)
 
+## APK LINK 
+
+[Resume](https://docs.flutter.dev/get-started/codelab)
+
+## Challenges
+
+* Responsiveness: Had a tough time making the app responsive, so i used **LayoutBuilder Widget**. With this, i could get the page constraints and rebuild my ui depending on the size i find myself
 
 
 
-  **i. Naming Convention**
 
-|Naming Convention|Effective Style|Example|   
-|-----------------|---------------|-------|
-|Classes, enum types,typedefs,and type parameters,etensions|PascalCase^1|An example is HomeScreen|
-|Libraries, packages, directories, and source files, import prefixes|snake_case|An example is home_screen|
-|Class members, top-level definitions, variables, parameters, and named parameters, constants|camelCase|An example is verifiedUser|
 
 ## New to Flutter/Dart
-
-
 
 A few resources to get you started if this is your first Flutter project:
 
