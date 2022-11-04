@@ -2,8 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:resume/constants/app_sizes.dart';
 import 'package:resume/outils/extensions.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
-
-import '../main/main_view.dart';
+import 'package:resume/scr/shared/nav_page.dart';
 
 class StartUp extends StatelessWidget {
   const StartUp({super.key});
@@ -56,10 +55,8 @@ class StartUp extends StatelessWidget {
               gapH20,
               InkWell(
                 onTap: () {
-                  Navigator.push(
-                      context,
-                      MaterialPageRoute(
-                          builder: (context) => const MainView()));
+                  Navigator.push(context,
+                      MaterialPageRoute(builder: (context) => const NavPage()));
                 },
                 child: Padding(
                   padding: const EdgeInsets.all(10),

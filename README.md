@@ -54,6 +54,8 @@ This app is setup to use MVVM(Model-view-view-model) Architecture. Each view is 
 
 * Provider: A state management solution. Helps us easily change the state of a variable at particular period of the life cycle.
 
+* adaptive_navigation: I use this achieve screen   adaptiveness. 
+
 ## Features which could be added
 
 * Authentication (Anonymous/Auth)
@@ -66,7 +68,7 @@ This app is setup to use MVVM(Model-view-view-model) Architecture. Each view is 
 
 ## APK LINK 
 
-[Resume](https://docs.flutter.dev/get-started/codelab)
+[Resume](https://drive.google.com/file/d/11wTUmP2Rv58XwcLO9JLjHBokU0d9w9ci/view?usp=share_link)
 
 ## Challenges
 

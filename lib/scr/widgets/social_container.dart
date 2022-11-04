@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
 
 class SocialAuthContainer extends StatelessWidget {
+  final VoidCallback? instagramPress;
   final VoidCallback? onFacebookPress;
   final VoidCallback? onTwitterPress;
-  final VoidCallback? instagramPress;
 
   const SocialAuthContainer({
     Key? key,
+    this.instagramPress,
     required this.onFacebookPress,
     required this.onTwitterPress,
-    this.instagramPress,
   }) : super(key: key);
 
   @override

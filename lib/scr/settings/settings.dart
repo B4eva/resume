@@ -96,13 +96,18 @@ class _SettingsViewState extends State<SettingsView> {
             gapH12,
             Visibility(
               visible: true,
-              child: SocialAuthContainer(onTwitterPress: () {
-                launchUrl(Uri.parse('  https://web.facebook.com/bright.efuet'));
-              }, onFacebookPress: () {
-                launchUrl(Uri.parse('https://twitter.com/b4_eva'));
-              }, instagramPress: () {
-                launchUrl(Uri.parse('https://instagram.com/efuetbright/'));
-              }),
+              child: SocialAuthContainer(
+                instagramPress: () {
+                  launchUrl(Uri.parse('https://instagram.com/efuetbright/'));
+                },
+                onTwitterPress: () {
+                  launchUrl(
+                      Uri.parse('  https://web.facebook.com/bright.efuet'));
+                },
+                onFacebookPress: () {
+                  launchUrl(Uri.parse('https://twitter.com/b4_eva'));
+                },
+              ),
             ),
           ]),
         ));
